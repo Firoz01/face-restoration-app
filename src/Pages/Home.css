@@ -1,0 +1,21 @@
+body {
+  font-family: "Roboto Mono", monospace;
+}
+.home {
+  height: 100vh;
+}
+.preview {
+  width: 150px;
+  height: 150px;
+}
+
+.loading {
+  width: 155px;
+  height: 155px;
+}
+
+.color {
+  background-color: rgb(64, 64, 143);
+  border: none;
+  border-radius: 10px;
+}
